@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class ArrayListImplementations {
     public static void main(String[] args) {
         MyArrayList<Integer> arraylist = new MyArrayList<>();
